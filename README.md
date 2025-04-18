@@ -59,6 +59,6 @@ python scripts/eeg_analyzer.py --mode freq --dir ./data
 python scripts/eeg_analysis.py
 ```
 
-**License**
+
 This project is licensed under the MIT License - see the LICENSE file for details.
 
