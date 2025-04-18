@@ -11,7 +11,7 @@ This repository contains the complete dataset and analysis tools for the NeuroDr
 1. **Eyes Closed**: Resting state with eyes closed (baseline)
 2. **Eyes Open**: Active drawing while listening to music
 
-Data was collected using a consumer-grade EEG headset with recordings saved as WAV files for analysis. Multiple participants (Rashaun, Haley, Tamia, Thane, and Rhyan) contributed to the dataset, providing a diverse sample for analysis.
+Data was collected using a consumer-grade EEG headset with recordings saved as WAV files for analysis. Multiple participants (Rashaun, Hailey, Tamia, Thane, and Rhyan) contributed to the dataset, providing a diverse sample for analysis.
 
 **Processing Pipeline**
 
@@ -21,7 +21,7 @@ Data was collected using a consumer-grade EEG headset with recordings saved as W
 4. **Statistical Analysis**: ANOVA tests to compare conditions across frequency bands
 
 **Key Findings**
-Statistical analysis revealed no significant differences between the Eyes Closed and Eyes Open conditions across all frequency bands (Delta, Theta, Alpha, Beta, and Gamma). Though the differences weren't statistically significant, we observed interesting variations in the mean power across conditions, particularly in the alpha band where Eyes Closed showed a trend toward higher power (as is typically expected in resting state).
+:Statistical analysis revealed no significant differences between the Eyes Closed and Eyes Open conditions across all frequency bands (Delta, Theta, Alpha, Beta, and Gamma). Though the differences weren't statistically significant, we observed interesting variations in the mean power across conditions, particularly in the alpha band where Eyes Closed showed a trend toward higher power (as is typically expected in resting state).
 → Delta Band: F = 0.0126, p = 0.9137
 → Theta Band: F = 0.3094, p = 0.5954
 → Alpha Band: F = 0.0059, p = 0.9411
