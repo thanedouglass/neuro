@@ -3,10 +3,10 @@
 This repository contains the complete dataset and analysis tools for the NeuroDrawing+ project, which investigates the effects of multitasking (specifically drawing while listening to music) on brain activity, with a focus on resting state alpha and beta waves. Our research explores how visual processing and attention are affected during creative activities when performed simultaneously with auditory processing tasks.
 
 **Research Question**
-How does multitasking (drawing + music listening) affect EEG brainwave patterns, particularly in the alpha (8-12 Hz) and beta (12-30 Hz) frequency ranges, compared to single-task conditions?
+:How does multitasking (drawing + music listening) affect EEG brainwave patterns, particularly in the alpha (8-12 Hz) and beta (12-30 Hz) frequency ranges, compared to single-task conditions?
 
 **Methodology**
-We collected EEG recordings from participants in two conditions:
+:We collected EEG recordings from participants in two conditions:
 
 1. **Eyes Closed**: Resting state with eyes closed (baseline)
 2. **Eyes Open**: Active drawing while listening to music
@@ -14,6 +14,7 @@ We collected EEG recordings from participants in two conditions:
 Data was collected using a consumer-grade EEG headset with recordings saved as WAV files for analysis. Multiple participants (Rashaun, Haley, Tamia, Thane, and Rhyan) contributed to the dataset, providing a diverse sample for analysis.
 
 **Processing Pipeline**
+
 1. **Signal Acquisition**: EEG data recorded as WAV files
 2. **Time Domain Analysis**: Signal visualization and spike detection
 3. **Frequency Domain Analysis**: Fast Fourier Transform (FFT) to extract power across frequency bands
